@@ -53,6 +53,7 @@ const PlaceList: React.FC = () => {
                 title: 'Greece',
                 description: 'Perfect beach destination'
             }
+
         ]);
     };
 
