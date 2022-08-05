@@ -29,7 +29,6 @@ const PlaceList: React.FC = () => {
                 title: 'Madrid',
                 description: 'Very sunny and beautiful city'
             }
-<<<<<<< HEAD
             // {
             //     id: '2',
             //     imgUrl: 'https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
@@ -54,9 +53,6 @@ const PlaceList: React.FC = () => {
             //     title: 'Greece',
             //     description: 'Perfect beach destination'
             // }
-=======
-
->>>>>>> 0ade957cffeae534e09f745cb480fe9793af54d1
         ]);
     };
 
