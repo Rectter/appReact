@@ -28,31 +28,32 @@ const PlaceList: React.FC = () => {
                 imgUrl: 'https://images.pexels.com/photos/3254729/pexels-photo-3254729.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
                 title: 'Madrid',
                 description: 'Very sunny and beautiful city'
+            },
+            {
+                id: '2',
+                imgUrl: 'https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+                title: 'Paris',
+                description: 'The City of Lights'
+            },
+            {
+                id: '3',
+                imgUrl: 'https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+                title: 'London',
+                description: 'Rainy and nice place'
+            },
+            {
+                id: '4',
+                imgUrl: 'https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
+                title: 'Rome',
+                description: 'Lots of history in its streets!'
+            },
+            {
+                id: '5',
+                imgUrl: 'https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+                title: 'Greece',
+                description: 'Perfect beach destination'
             }
-            // {
-            //     id: '2',
-            //     imgUrl: 'https://images.pexels.com/photos/338515/pexels-photo-338515.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
-            //     title: 'Paris',
-            //     description: 'The City of Lights'
-            // },
-            // {
-            //     id: '3',
-            //     imgUrl: 'https://images.pexels.com/photos/460672/pexels-photo-460672.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
-            //     title: 'London',
-            //     description: 'Rainy and nice place'
-            // }
-            // {
-            //     id: '4',
-            //     imgUrl: 'https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
-            //     title: 'Rome',
-            //     description: 'Lots of history in its streets!'
-            // }
-            // {
-            //     id: '5',
-            //     imgUrl: 'https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
-            //     title: 'Greece',
-            //     description: 'Perfect beach destination'
-            // }
+
         ]);
     };
 
