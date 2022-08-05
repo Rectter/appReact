@@ -46,13 +46,13 @@ const PlaceList: React.FC = () => {
                 imgUrl: 'https://images.pexels.com/photos/1797161/pexels-photo-1797161.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500',
                 title: 'Rome',
                 description: 'Lots of history in its streets!'
-            },
-            {
-                id: '5',
-                imgUrl: 'https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
-                title: 'Greece',
-                description: 'Perfect beach destination'
             }
+            // {
+            //     id: '5',
+            //     imgUrl: 'https://images.pexels.com/photos/164336/pexels-photo-164336.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940',
+            //     title: 'Greece',
+            //     description: 'Perfect beach destination'
+            // }
         ]);
     };
 
